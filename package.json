@@ -1,5 +1,5 @@
 {
-  "name": "4v-nexus-matomo-tracker",
+  "name": "@4v-services/matomo-tracker-react",
   "private": true,
   "scripts": {
     "build": "npm run build:ts && npm run build:ts:es",
