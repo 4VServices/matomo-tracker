@@ -10,7 +10,6 @@
     "lint": "eslint .",
     "test": "jest",
     "prettier": "prettier --write ./packages/**/**/*.{ts,tsx}",
-    "postinstall": "npm run build",
     "prepublishOnly": "npm run build",
     "publish:canary": "lerna publish --canary",
     "publish:stable": "lerna publish"
