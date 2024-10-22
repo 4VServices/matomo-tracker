@@ -6,10 +6,10 @@
   "module": "es/index.js",
   "license": "MPL-2.0",
   "author": "Jon Koops",
-  "homepage": "https://github.com/jonkoops/matomo-tracker#readme",
+  "homepage": "https://github.com/4VServices/matomo-tracker#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonkoops/matomo-tracker.git",
+    "url": "git+https://github.com/4VServices/matomo-tracker.git",
     "directory": "packages/js"
   },
   "bugs": {
