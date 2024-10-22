@@ -1,4 +1,5 @@
 {
+  "name": "@4v-services/matomo-trackers",
   "private": true,
   "scripts": {
     "build": "npm run build:ts && npm run build:ts:es",
